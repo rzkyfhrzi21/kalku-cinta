@@ -1,0 +1,19 @@
+{
+  "name": "kalkulator-jodoh",
+  "version": "1.0.0",
+  "description": "game ini hanyalah untuk have fun, tidak bermaksud untuk menyinggung siapapun. UI design by:Ajid solehudin, Developer by:Dafi NR Maulana",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DafiNMaulana/game-kalku-cinta.git"
+  },
+  "author": "Dafi NR Maulana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DafiNMaulana/game-kalku-cinta/issues"
+  },
+  "homepage": "https://github.com/DafiNMaulana/game-kalku-cinta#readme"
+}
